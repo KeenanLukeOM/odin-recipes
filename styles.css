@@ -25,6 +25,11 @@ h2 {
 .text {
     font-size: 20px;
     background-color: rgb(242, 220, 255);
+    padding: 26px;
+}
+
+.text.list {
+    padding-left: 40px;
 }
 
 a {
