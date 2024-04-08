@@ -1,0 +1,18 @@
+h1 {
+    font-weight: bolder;
+    font-size: 60px;
+}
+
+h2 {
+    font-weight: 600;
+    font-size: 40px;
+}
+
+p, ul, ol {
+    font-size: 20px;
+}
+
+a {
+    font-size: 30px;
+    font-weight: 400;
+}
