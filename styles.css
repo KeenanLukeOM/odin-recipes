@@ -2,7 +2,7 @@
     font-family: 'Courier New', Courier, monospace, sans-serif;
 }
 
-.large-header, .small-header, .text, img {
+.large-header, .small-header, .text, .image {
     margin: 25px;
 }
 
@@ -10,6 +10,16 @@
     padding: 8px;
     background-color: aliceblue;
     
+}
+
+.button-box {
+    display: flex;
+}
+
+.image {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
 }
 
 h1 {
