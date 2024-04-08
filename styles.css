@@ -1,5 +1,15 @@
 * {
-    font-family: 'Courier New', Courier, monospace, sans-serif
+    font-family: 'Courier New', Courier, monospace, sans-serif;
+}
+
+.large-header, .small-header, .text, img {
+    margin: 25px;
+}
+
+.large-header, .small-header {
+    padding: 8px;
+    background-color: aliceblue;
+    
 }
 
 h1 {
@@ -12,8 +22,9 @@ h2 {
     font-size: 40px;
 }
 
-p, ul, ol {
+.text {
     font-size: 20px;
+    background-color: rgb(242, 220, 255);
 }
 
 a {
